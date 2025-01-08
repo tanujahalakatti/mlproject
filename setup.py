@@ -30,5 +30,6 @@ setup(
     install_requires=[
         'pandas',
         'numpy',
-        'seaborn']
+        'seaborn'
+    ]
 )
